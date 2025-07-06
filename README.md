@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./style.css" />
-
 # 👋 Uvejs Mikullovci
 
 `Frontend Developer & UI Designer`
@@ -35,5 +33,11 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 ---
 
 ## 👨‍💻 Projects
-
-_Screenshots and descriptions coming soon..._
+<img src="./images/yumyum.png" width="300" alt="YumYum" />
+<div>
+## YumYum
+Website for a delivery service for a restaurant/fast food company.
+### Project Info
+<strong>Year:</strong> 2022
+<strong>Role:</strong> WordPress Developer
+</div>
