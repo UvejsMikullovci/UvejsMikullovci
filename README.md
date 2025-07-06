@@ -1,7 +1,7 @@
 # 👋 Uvejs Mikullovci
 Based in Kosovo, Vushtrri
 
-`Frontend Developer & UI Designer`
+`👨‍💻 Frontend Developer | 🎨 UI Designer | ⚡ Clean Code Enthusiast`
 
 Hi, I’m Uvejs Mikullovci, 15 years old. I’m a web developer focused mainly on front-end development.  
 I use HTML, CSS, JavaScript, React, TypeScript ext... to build websites and web apps that are responsive, simple to use, and clean in design. I started learning to code because I enjoyed figuring out how things work behind the scenes, and that curiosity has kept growing over time. I like solving problems through code, whether it’s designing a user interface or writing logic that makes an app actually function.
@@ -10,7 +10,9 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 
 ---
 
+## 📈 Stats
 ![Uvejs's GitHub stats](https://github-readme-stats.vercel.app/api?username=UvejsMIkullovci&show_icons=true&theme=radical)
+> Note: a little on the lower side as i recently started posting regurarly on github
 
 ---
 
@@ -96,13 +98,13 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 
 ---
 
-# Contact
+## 🌐 Contact
 · 📫 Email (Personal): mikullovciuvejs@gmail.com <br/>
 · 📪 Email (Professional): novacode99@gmail.com<br/>
 · 💼 LinkedIn: uvejsmikullovci<br/>
 · 📷 Instagram (Professional): novacode1<br/>
 · 📸 Instagram (Personal): uvejs.mikullovci1<br/>
-
+<br>
 > ⚠️ Warning: Proceed with Caution ⚠️<br>
 >
 >🚨 If you contact me through my business email, you will suffer the consequences…<br> …of getting an absurdly amazing website that crushes your competitors.
