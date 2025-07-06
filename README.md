@@ -1,5 +1,7 @@
 # 👋 Uvejs Mikullovci
 
+`Frontend Developer & UI Designer`
+
 Hi, I’m Uvejs Mikullovci. I’m a web developer focused mainly on front-end development.  
 I use HTML, CSS, JavaScript, React, TypeScript, and Python to build websites and web apps that are responsive, simple to use, and clean in design. I started learning to code because I enjoyed figuring out how things work behind the scenes, and that curiosity has kept growing over time. I like solving problems through code, whether it’s designing a user interface or writing logic that makes an app actually function.
 
