@@ -1,4 +1,5 @@
 # 👋 Uvejs Mikullovci
+Based in Kosovo, Vushtrri
 
 `Frontend Developer & UI Designer`
 
