@@ -25,19 +25,49 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" alt="Photoshop" />
 </p>
 
 ---
 
 ## 👨‍💻 Projects
-<img src="./images/yumyum.png" width="300" alt="YumYum" />
-<div>
-## YumYum
-Website for a delivery service for a restaurant/fast food company.
-### Project Info
-<strong>Year:</strong> 2022
-<strong>Role:</strong> WordPress Developer
-</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/yumyum.png" width="300" alt="YumYum" /><br/>
+      <h2>YumYum</h2>
+    </td>
+    <td align="center">
+      <img src="./images/Lekto.png" width="300" alt="Lekto" /><br/>
+      <h2>Lekto</h2>
+    </td>
+    <td align="center">
+      <img src="./images/huntly.png" width="300" alt="JobHuntly" /><br/>
+      <h2>JobHuntly</h2>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/himod.png" width="300" alt="HiMod" /><br/>
+      <h2>HiMod</h2>
+    </td>
+    <td align="center">
+      <img src="./images/eco.png" width="300" alt="EcoBazar" /><br/>
+      <h2>EcoBazar</h2>
+    </td>
+    <td align="center">
+      <img src="./images/marimostudios.png" width="300" alt="Marimo Studios" /><br/>
+      <h2>Marimo Studios</h2>
+    </td>
+  </tr>
+</table>
