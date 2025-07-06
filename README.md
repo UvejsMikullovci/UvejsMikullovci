@@ -1,7 +1,9 @@
 # Uvejs Mikullovci
 
-Hi, I’m Uvejs Mikullovci. I’m a web developer focused mostly on front-end work.  
-I use HTML, CSS, JavaScript, React, TypeScript, and Python to build websites and web applications that are fast, clean, and functional. I like working on things that solve real problems or improve digital experiences.
+Hi, I’m Uvejs Mikullovci. I’m a web developer focused mainly on front-end development.  
+I use HTML, CSS, JavaScript, React, TypeScript, and Python to build websites and web apps that are responsive, simple to use, and clean in design. I started learning to code because I enjoyed figuring out how things work behind the scenes, and that curiosity has kept growing over time. I like solving problems through code, whether it’s designing a user interface or writing logic that makes an app actually function.
+
+I'm always exploring new ideas and trying to get better at what I do. Most of my time is spent building personal projects, learning from others, or tweaking older work to improve it. I believe that writing clear and maintainable code is just as important as making things look good on the front end. I don’t try to overcomplicate things — I just like building useful stuff and keeping it real.
 
 ---
 
