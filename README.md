@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./style.css" />
+
 # 👋 Uvejs Mikullovci
 
 `Frontend Developer & UI Designer`
