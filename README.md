@@ -89,3 +89,8 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 · 💼 LinkedIn: uvejsmikullovci<br/>
 · 📷 Instagram (Professional): novacode1<br/>
 · 📸 Instagram (Personal): uvejs.mikullovci1<br/>
+
+> ⚠️ Warning: Proceed with Caution ⚠️
+If you contact me through my business email,<br> you will suffer the consequences… …of getting<br> an absurdly amazing website that crushes your competitors.
+>
+>You’ve been warned.
