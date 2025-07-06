@@ -21,6 +21,8 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" width="40" alt="React" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
@@ -41,14 +43,17 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 <table>
   <tr>
     <td align="center">
+      <br>
       <img src="./images/yumyum.png" width="300" alt="YumYum" /><br/>
       <h2>YumYum</h2>
     </td>
     <td align="center">
+      <br>
       <img src="./images/Lekto.png" width="300" alt="Lekto" /><br/>
       <h2>Lekto</h2>
     </td>
     <td align="center">
+      <br>
       <img src="./images/huntly.png" width="300" alt="JobHuntly" /><br/>
       <h2>JobHuntly</h2>
     </td>
@@ -58,14 +63,17 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 <table>
   <tr>
     <td align="center">
+      <br>
       <img src="./images/himod.png" width="300" alt="HiMod" /><br/>
       <h2>HiMod</h2>
     </td>
     <td align="center">
+      <br>
       <img src="./images/eco.png" width="300" alt="EcoBazar" /><br/>
       <h2>EcoBazar</h2>
     </td>
     <td align="center">
+      <br>
       <img src="./images/marimostudios.png" width="300" alt="Marimo Studios" /><br/>
       <h2>Marimo Studios</h2>
     </td>
