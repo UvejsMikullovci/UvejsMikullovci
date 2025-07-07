@@ -107,6 +107,6 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 <br>
 > ⚠️ Warning: Proceed with Caution ⚠️<br>
 >
->🚨 If you contact me through my business email, you will suffer the consequences…<br> …of getting an absurdly amazing website that crushes your competitors.
+>🚨 If you contact me through my business email, you will suffer the consequences…<br> …of getting an absurdly amazing website.
 >
 >‼️ You’ve been warned.
