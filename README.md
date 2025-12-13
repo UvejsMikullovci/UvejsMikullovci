@@ -30,10 +30,6 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
@@ -48,9 +44,9 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 ---
 
 ## 🚧 Currently Working On
-- A website for a furniture/carpenter bussiness that showcases their bedrooms kitchen ext with threeJS so 3d
-- Improving backend knowledge with Next-js
-- Learning UI animations with GSAP
+- Cake Ordering App With ThreeJS
+- Student Managment App
+- Learning Back End
   
 ---
 
@@ -100,13 +96,7 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 
 ## 🌐 Contact
 · 📫 Email (Personal): mikullovciuvejs@gmail.com <br/>
-· 📪 Email (Professional): novacode99@gmail.com<br/>
 · 💼 LinkedIn: uvejsmikullovci<br/>
 · 📷 Instagram (Professional): novacode1<br/>
 · 📸 Instagram (Personal): uvejs.mikullovci1<br/>
 <br>
-> ⚠️ Warning: Proceed with Caution ⚠️<br>
->
->🚨 If you contact me through my business email, you will suffer the consequences…<br> …of getting an absurdly amazing website.
->
->‼️ You’ve been warned.
