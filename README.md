@@ -95,8 +95,7 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 ---
 
 ## 🌐 Contact
-· 📫 Email (Personal): mikullovciuvejs@gmail.com <br/>
+· 📫 Email: mikullovciuvejs@gmail.com <br/>
 · 💼 LinkedIn: uvejsmikullovci<br/>
-· 📷 Instagram (Professional): novacode1<br/>
 · 📸 Instagram (Personal): uvejs.mikullovci1<br/>
 <br>
