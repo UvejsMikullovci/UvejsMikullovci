@@ -10,12 +10,6 @@ I'm always exploring new ideas and trying to get better at what I do. Most of my
 
 ---
 
-## 📈 Stats
-![Uvejs's GitHub stats](https://github-readme-stats.vercel.app/api?username=UvejsMIkullovci&show_icons=true&theme=radical)
-> Note: a little on the lower side as i recently started posting regurarly on github
-
----
-
 ## 🛠️ Languages and Tools
 
 
